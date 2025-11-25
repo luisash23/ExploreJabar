@@ -39,7 +39,7 @@
                 </button>
             </form>
             
-            <a href="#" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg transition duration-300 hidden md:block">
+            <a href="pemesanan.php" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg transition duration-300 hidden md:block">
                 BOOK NOW
             </a>
 
